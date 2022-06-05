@@ -4,7 +4,7 @@ Hi 👋 My name is Dev Jaiswal
 Web Developer and a Programmer
 ------------------------------
 
-I am a fresher in Computer Science and Engineering and I've deep interest in Development, Programming and learning Blockchain Technologies.
+I am a fresher in Computer Science and Engineering and I've deep interest in Development, Programming and Blockchain Technologies.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [devj8496@gmail.com](mailto:devj8496@gmail.com)
