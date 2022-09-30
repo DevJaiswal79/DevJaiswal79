@@ -32,6 +32,7 @@ I am a fresher in Computer Science and Engineering and I've deep interest in Dev
 ### Badges
 
 <b>My GitHub Stats</b>
+<br>
 <a href="http://www.github.com/DevJaiswal79"><img src="https://github-readme-stats.vercel.app/api?username=DevJaiswal79&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=22c55e&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DevJaiswal79's GitHub stats" /></a>
 
 <a href="http://www.github.com/DevJaiswal79"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJaiswal79&stroke=22c55e&background=000000&ring=3382ed&fire=3382ed&currStreakNum=22c55e&currStreakLabel=3382ed&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
