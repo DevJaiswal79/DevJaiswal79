@@ -1,15 +1,15 @@
-Hi 👋 My name is Dev Jaiswal
+👋 Hey there! I'm Dev Jaiswal,
 ============================
 
 Web Developer and a Programmer
 ------------------------------
 
-I am a fresher in Computer Science and Engineering and I've deep interest in Development, Programming and Blockchain Technologies.
+I am a 3rd-year Computer Science Engineering student at Jaypee University. My journey revolves around diving deep into the realms of web development and programming.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [devj8496@gmail.com](mailto:devj8496@gmail.com)
 * 🧠  I'm currently learning JavaScript and DSA
 * 🤝  I'm open to collaborating on Web Projects
+*  ✉️ Let's connect! Drop me a line at [devj8496@gmail.com](mailto:devj8496@gmail.com)
 
 ### Skills
 
