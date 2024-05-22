@@ -1,15 +1,15 @@
 👋 Hey there! I'm Dev Jaiswal,
 ============================
 
-Web Developer and a Programmer
+Full Stack Developer and a Tech Enthusiast  
 ------------------------------
 
-I am a 3rd-year Computer Science Engineering student at Jaypee University. My journey revolves around diving deep into the realms of web development and programming.
+Currently I am in my final year of Computer Science Engineering student at Jaypee University of Engineering and Technology. My journey revolves around diving deep into the realms of Software Development and making scalable and User-friendly applications.
 
 * 🌍  I'm based in India
-* 🧠  I'm currently learning JavaScript and DSA
-* 🤝  I'm open to collaborating on Web Projects
-*  ✉️ Let's connect! Drop me a line at [devj8496@gmail.com](mailto:devj8496@gmail.com)
+* 🧠  I'm currently learning Nextjs , exploring NLP and its application and practicing DSA.
+* 🤝  I'm open to collaborating on any exiting projects that have some real life application.
+*  ✉️ Let's connect! Drop me a line at [devj8496@gmail.com](mailto:devj8496@gmail.com) 
 
 ### Skills
 
