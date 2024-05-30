@@ -4,7 +4,7 @@
 Full Stack Developer and a Tech Enthusiast  
 ------------------------------
 
-Currently I am in my final year of Computer Science Engineering student at Jaypee University of Engineering and Technology. My journey revolves around diving deep into the realms of Software Development and making scalable and User-friendly applications.
+Currently I am a final year of Computer Science Engineering student at Jaypee University of Engineering and Technology. My journey revolves around diving deep into the realms of Software Development and making scalable and User-friendly applications.
 
 * 🌍  I'm based in India
 * 🧠  I'm currently learning Nextjs , exploring NLP and its application and practicing DSA.
